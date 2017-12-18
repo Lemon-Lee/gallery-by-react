@@ -1,7 +1,7 @@
 # gallery-by-react
 gallery by react-webpack
  
-## <a name="table-of-contents">ç›®å½•</a>
+## <a name="table-of-contents">Ä¿Â¼</a>
 
   1. [cfg](#cfg)
   2. [dist](#dist)
@@ -16,47 +16,47 @@ gallery by react-webpack
   11. [server.js](#server.js)
   12. [webpack.config.js](#webpack.config.js)
 
-## <a name="cfg">ç±»åž‹</a>
+## <a name="cfg">ÀàÐÍ</a>
 
-  - **åŽŸå§‹å€¼**: å­˜å–ç›´æŽ¥ä½œç”¨äºŽå®ƒè‡ªèº«ã€‚
+  - **Ô­Ê¼Öµ**: ´æÈ¡Ö±½Ó×÷ÓÃÓÚËü×ÔÉí¡£
 
-## <a name="dist">å¯¹è±¡</a>
+## <a name="dist">¶ÔÏó</a>
 
-  - ä½¿ç”¨ç›´æŽ¥é‡åˆ›å»ºå¯¹è±¡ã€‚
+  - Ê¹ÓÃÖ±½ÓÁ¿´´½¨¶ÔÏó¡£
 
-## <a name="node_modules">æ•°ç»„</a>
+## <a name="node_modules">Êý×é</a>
 
-  - ä½¿ç”¨ç›´æŽ¥é‡åˆ›å»ºæ•°ç»„ã€‚
+  - Ê¹ÓÃÖ±½ÓÁ¿´´½¨Êý×é¡£
 
 ## <a name="src">src</a>
 
-  - æºä»£ç æ‰€åœ¨ç›®å½•ã€‚
+  - Ô´´úÂëËùÔÚÄ¿Â¼¡£
   
 ## <a name="test">test</a>
 
-  - æµ‹è¯•ä»£ç æ‰€åœ¨ç›®å½•ã€‚
+  - ²âÊÔ´úÂëËùÔÚÄ¿Â¼¡£
 
 ## <a name="editorconfig">editorconfig</a>
 
-  - ç»Ÿä¸€ä¸åŒçš„IDEçš„ç¼–ç é£Žæ ¼çš„é…ç½®æ–‡ä»¶ï¼Œå‰ææ˜¯IDEå®‰è£…äº†æ”¯æŒeditorconfigçš„æ’ä»¶ã€‚
+  - Í³Ò»²»Í¬µÄIDEµÄ±àÂë·ç¸ñµÄÅäÖÃÎÄ¼þ£¬Ç°ÌáÊÇIDE°²×°ÁËÖ§³ÖeditorconfigµÄ²å¼þ¡£
 
 ## <a name="eslintrc">eslintrc</a>
 
-  - ä»£ç é£Žæ ¼æ£€æµ‹å·¥å…·é…ç½®æ–‡ä»¶ã€‚
+  - ´úÂë·ç¸ñ¼ì²â¹¤¾ßÅäÖÃÎÄ¼þ¡£
   
 ## <a name="yo-rc">yo-rc</a>
 
-  - yeomané…ç½®æ–‡ä»¶ã€‚
+  - yeomanÅäÖÃÎÄ¼þ¡£
   
 ## <a name="karma.conf.js">karma.conf.js</a>
 
-  - karmaæµ‹è¯•æ¡†æž¶çš„é…ç½®æ–‡ä»¶ã€‚
+  - karma²âÊÔ¿ò¼ÜµÄÅäÖÃÎÄ¼þ¡£
 
 ## <a name="package.json">package.json</a>
 
-  - nodeé¡¹ç›®çš„é…ç½®æ–‡ä»¶ï¼Œå£°æ˜Žå½“å‰é¡¹ç›®ä¾èµ–npmåŒ…ã€‚
+  - nodeÏîÄ¿µÄÅäÖÃÎÄ¼þ£¬ÉùÃ÷µ±Ç°ÏîÄ¿ÒÀÀµnpm°ü¡£
   
 ## <a name="webpack.config.js">webpack.config.js</a>
 
-  - webpackå¼€å‘çŽ¯å¢ƒé…ç½®æ–‡ä»¶ã€‚
+  - webpack¿ª·¢»·¾³ÅäÖÃÎÄ¼þ¡£
   
