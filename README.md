@@ -1,62 +1,57 @@
 # gallery-by-react
 gallery by react-webpack
  
-## <a name="table-of-contents">Ä¿Â¼</a>
+## <a name="table-of-contents">Ã„Â¿Ã‚Â¼</a>
 
   1. [cfg](#cfg)
   2. [dist](#dist)
-  3. [node_modules](#node_modules)
-  4. [src](#src)
-  5. [test](#test)
-  6. [.editorconfig](#editorconfig)
-  7. [.eslintrc](#eslintrc)
-  8. [.yo-rc.json](#yo-rc.json)
-  9. [karma.conf.js](#karma.conf.js)
-  10. [package.json](#package.json)
-  11. [server.js](#server.js)
-  12. [webpack.config.js](#webpack.config.js)
+  3. [src](#src)
+  4. [test](#test)
+  5. [.editorconfig](#editorconfig)
+  6. [.eslintrc](#eslintrc)
+  7. [.yo-rc.json](#yo-rc.json)
+  8. [karma.conf.js](#karma.conf.js)
+  9. [package.json](#package.json)
+  10. [server.js](#server.js)
+  11. [webpack.config.js](#webpack.config.js)
 
-## <a name="cfg">ÀàĞÍ</a>
+## <a name="cfg">cfg</a>
 
-  - **Ô­Ê¼Öµ**: ´æÈ¡Ö±½Ó×÷ÓÃÓÚËü×ÔÉí¡£
+  - é…ç½®æ–‡ä»¶
 
-## <a name="dist">¶ÔÏó</a>
+## <a name="dist">dist</a>
 
-  - Ê¹ÓÃÖ±½ÓÁ¿´´½¨¶ÔÏó¡£
-
-## <a name="node_modules">Êı×é</a>
-
-  - Ê¹ÓÃÖ±½ÓÁ¿´´½¨Êı×é¡£
+  - ç›®æ ‡æ–‡ä»¶
 
 ## <a name="src">src</a>
 
-  - Ô´´úÂëËùÔÚÄ¿Â¼¡£
+  - æºä»£ç æ‰€åœ¨ç›®å½•ã€‚
   
 ## <a name="test">test</a>
 
-  - ²âÊÔ´úÂëËùÔÚÄ¿Â¼¡£
+  - æµ‹è¯•ä»£ç æ‰€åœ¨ç›®å½•ã€‚
 
 ## <a name="editorconfig">editorconfig</a>
 
-  - Í³Ò»²»Í¬µÄIDEµÄ±àÂë·ç¸ñµÄÅäÖÃÎÄ¼ş£¬Ç°ÌáÊÇIDE°²×°ÁËÖ§³ÖeditorconfigµÄ²å¼ş¡£
+  - ç»Ÿä¸€ä¸åŒçš„IDEçš„ç¼–ç é£æ ¼çš„é…ç½®æ–‡ä»¶ï¼Œå‰ææ˜¯IDEå®‰è£…äº†æ”¯æŒeditorconfigçš„æ’ä»¶ã€‚
 
 ## <a name="eslintrc">eslintrc</a>
 
-  - ´úÂë·ç¸ñ¼ì²â¹¤¾ßÅäÖÃÎÄ¼ş¡£
+  - ä»£ç é£æ ¼æ£€æµ‹å·¥å…·é…ç½®æ–‡ä»¶ã€‚
   
 ## <a name="yo-rc">yo-rc</a>
 
-  - yeomanÅäÖÃÎÄ¼ş¡£
+  - yeomané…ç½®æ–‡ä»¶ã€‚
   
 ## <a name="karma.conf.js">karma.conf.js</a>
 
-  - karma²âÊÔ¿ò¼ÜµÄÅäÖÃÎÄ¼ş¡£
+  - karmaæµ‹è¯•æ¡†æ¶çš„é…ç½®æ–‡ä»¶ã€‚
 
 ## <a name="package.json">package.json</a>
 
-  - nodeÏîÄ¿µÄÅäÖÃÎÄ¼ş£¬ÉùÃ÷µ±Ç°ÏîÄ¿ÒÀÀµnpm°ü¡£
+  - nodeé¡¹ç›®çš„é…ç½®æ–‡ä»¶ï¼Œå£°æ˜å½“å‰é¡¹ç›®ä¾èµ–npmåŒ…ã€‚
   
 ## <a name="webpack.config.js">webpack.config.js</a>
 
-  - webpack¿ª·¢»·¾³ÅäÖÃÎÄ¼ş¡£
+  - webpackå¼€å‘ç¯å¢ƒé…ç½®æ–‡ä»¶ã€‚
   
