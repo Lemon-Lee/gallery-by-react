@@ -1,7 +1,7 @@
 # gallery-by-react
 gallery by react-webpack
  
-## <a name="table-of-contents">Ä¿Â¼</a>
+## <a name="table-of-contents">目录</a>
 
   1. [cfg](#cfg)
   2. [dist](#dist)
